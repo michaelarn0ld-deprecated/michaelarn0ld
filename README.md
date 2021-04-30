@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelarn0ld
 - 👀 I’m interested in aritificial intelligence, machine learning, and deep learning!
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript, C++, and Python
 - 💞️ I’m looking for small open-source projects to get my feet wet!
 - 📫 How to reach me --> marnolddevelop@gmail.com
 
