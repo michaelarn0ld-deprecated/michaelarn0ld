@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @michaelarn0ld
-- 👀 I’m interested in aritificial intelligence, machine learning, and deep learning!
-- 🌱 I’m currently learning JavaScript, C++, and Python
-- 💞️ I’m looking for small open-source projects to get my feet wet!
-- 📫 How to reach me --> marnolddevelop@gmail.com
+- 👀 I’m passionate about creating beautiful, functional apps that live on the web!
+- 🌱 I’m currently focusing on PHP and Javascript
+- 💞️ I’m looking to contribute to open-source projects -- if you have one for me, don't hesistate to reach out!
+- 📫 How to reach me --> michael@ecstatech.com
 
 <!---
 michaelarn0ld/michaelarn0ld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
